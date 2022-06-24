@@ -45,32 +45,38 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           {
             text: 'Git',
             items: [
-              { text: 'Git核心命令', link: '/pages/8143cc480faf9a11/' },
+              { text: 'Git核心命令', link: '/pages/30f9ff/' },
             ],
           },
           {
             text: 'GitLab',
             items: [
-              { text: 'Gitlab基础', link: '/pages/8143cc480faf9a11/' },
-              { text: 'CI/CD语法', link: '/pages/8143cc480faf9a11/' },
+              { text: 'Gitlab基础', link: '/pages/fb2fff/' },
+              { text: 'CI/CD语法', link: '/pages/4e044c/' },
             ],
           },
           {
             text: 'Jernkins',
             items: [
-              { text: 'Jenkins入门', link: '/pages/8143cc480faf9a11/' },
-              { text: 'Pipeline流水线语法', link: '/pages/8143cc480faf9a11/' },
-              { text: 'Jenkins集成各种工具', link: '/pages/8143cc480faf9a11/' },
+              { text: 'Jenkins入门', link: '/pages/4e044c/' },
+              { text: 'Pipeline流水线语法', link: '/pages/c6f51e/' },
+              { text: 'Jenkins集成各种工具', link: '/pages/bc4b74/' },
             ],
           },
           {
             text: '企业级流水线案例',
             items: [
-              { text: '企业级流水线的两个场景', link: '/pages/8143cc480faf9a11/' },
-              { text: 'Npm企业流水线案例', link: '/pages/8143cc480faf9a11/' },
-              { text: 'Java企业级流水线案例', link: '/pages/8143cc480faf9a11/' },
-              { text: 'Python企业级流水线案例', link: '/pages/8143cc480faf9a11/' },
-              { text: 'Golang企业级流水线案例', link: '/pages/8143cc480faf9a11/' },
+              { text: '企业级流水线的两个场景', link: '/pages/894626/' },
+              { text: 'Npm企业流水线案例', link: '/pages/a9b729/' },
+              { text: 'Java企业级流水线案例', link: '/pages/7d05b5/' },
+              { text: 'Python企业级流水线案例', link: '/pages/e2c1f7/' },
+              { text: 'Golang企业级流水线案例', link: '/pages/16c5f8/' },
+            ],
+          },
+          {
+            text: '自动化测试流水线',
+            items: [
+              { text: '自动化测试流水线', link: '/pages/f33341/' },
             ],
           },
         ],
@@ -85,7 +91,6 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           { text: '实用技巧', link: '/pages/baaa02/' },
         ],
       },
-      { text: '关于', link: '/about/' },
       {
         text: '收藏',
         link: '/pages/beb6c0bd8a66cea6/',
