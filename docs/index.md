@@ -22,7 +22,7 @@ features: # 可选的
     imgUrl: /img/other.png
   - title: Kubernetes
     details: Docker、kubernetes、istio等相关技术
-    link: /#
+    link: /kubernetes
     imgUrl: /img/other.png
   - title: DevOps
     details: Jenkins、Gitlab、SonarQube以及自动化等相关技术
