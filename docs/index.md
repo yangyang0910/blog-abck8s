@@ -18,7 +18,7 @@ features: # 可选的
     imgUrl: /img/ui.png
   - title: Python逆向爬虫
     details: 各种APP逆向爬取数据等相关技术
-    link: /#
+    link: /python-reptile
     imgUrl: /img/other.png
   - title: Kubernetes
     details: Docker、kubernetes、istio等相关技术
