@@ -1,6 +1,11 @@
 <template>
   <div class="right-menu-wrapper">
     <div class="right-menu-margin">
+      <div class="right-menu-title">
+        <img src="/img/weixin.png" alt="小阳爱技术" srcset="">
+      </div>
+    </div>
+    <div class="right-menu-margin">
       <div class="right-menu-title">目录</div>
       <div class="right-menu-content">
         <div
